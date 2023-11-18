@@ -1,0 +1,7 @@
+.alert{
+  color:white;
+  margin-bottom: 15px;
+}
+.alert-danger{
+  background-color: rgb(230, 47, 47);
+}
